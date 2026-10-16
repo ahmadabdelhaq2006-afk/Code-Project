@@ -16,6 +16,5 @@ public class Homework {
 		else
 	    System.out.printf("The max number is: %d" , x2);
     }
-    //2 
     
 }
